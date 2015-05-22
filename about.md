@@ -1,25 +1,33 @@
 ---
 layout: default
-title: About Long Haul
+title: GuGg - 국끄
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">한국현(GH Han)GuGg(국끄)</h1>
+	<img src="{{ '/assets/img/profile_portrait2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<p class="intro">대구촌놈, 문돌이, 꼴에 창업</p>
+	<h2>좋음 </h2>
 	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+    <li>main : 게임 대회 서비스 플랫폼 <a href="http://gutlet.com">Guntlet(건틀렛)</a> Product Lead / Fouder</li>
+    <li>side : 팀 피드 / 노트 서비스 <a href="http://updateam.com">Updateam(업데이팀)</a> - Developer / Fouder</li>
+    <li>Python - Django</a></li>
+    <li>Javascript - Meteor, React</li>
+    <li>Data analytics - R</li>
+    <li>Coffee</li>
+    <li>Pasta</li>
+    <li>김광석, 이문세, 김동률, 최백호 </li>
+    <li>PC game - League of Legend, Counter-strike(1.6), Starcraft:Bloodwar, World of Warcraft</li>
+    <li>Console(PS4) game - The last of us</li>
+    <li>UX design(not UI)</li>
+    <li>시간 두고 친해지는 것 </li>
+    <li>HJ</li>
+	</ul>
+  <h2>싫음 </h2>
+  <ul>
+    <li>가지</li>
+    <li>술</li>
+    <li>안 친한데 친한 척 </li>  
+    <li>나대는 것 & 나대는 꼴 </li>
+  </ul>
 </div>

@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: GuGg - GH Han
+description: Blog for personal & making "Updateam"
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://gugghan.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -14,14 +14,14 @@ navigation:
  - title: Home
    url: /index.html
  - title: About
-   url: /about
+   url: /about.html
  - title: Contact
-   url: /contact
+   url: /contact.html
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: gugghan
+   twitter: gugghan
+   facebook: gugghan
+   email: gugghan@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-63291251-1"

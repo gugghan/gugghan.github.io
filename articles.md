@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: GuGg - 국끄
 ---
 
 <div id="articles">
