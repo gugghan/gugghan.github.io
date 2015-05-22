@@ -4,13 +4,16 @@ title: GuGg - 국끄
 ---
 
 <div class="post">
-	<h1 class="pageTitle">한국현(GH Han)GuGg(국끄)</h1>
+	<h1 class="pageTitle">한국현(GH Han)<br />GuGg(국끄)</h1>
 	<img src="{{ '/assets/img/profile_portrait2.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">대구촌놈, 문돌이, 꼴에 창업</p>
+	<p class="intro">대구촌놈, 문돌이, 꼴에 스타트업 </p>
+  <h2>하는 것</h2>
+  <ul>
+    <li>main : <a href="http://gutlet.com">Guntlet(건틀렛)</a> Product Lead / Fouder</li>
+    <li>side : <a href="http://updateam.com">Updateam(업데이팀)</a> - Developer / Fouder</li>
+  </ul>
 	<h2>좋음 </h2>
 	<ul>
-    <li>main : 게임 대회 서비스 플랫폼 <a href="http://gutlet.com">Guntlet(건틀렛)</a> Product Lead / Fouder</li>
-    <li>side : 팀 피드 / 노트 서비스 <a href="http://updateam.com">Updateam(업데이팀)</a> - Developer / Fouder</li>
     <li>Python - Django</a></li>
     <li>Javascript - Meteor, React</li>
     <li>Data analytics - R</li>
