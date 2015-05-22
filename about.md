@@ -9,7 +9,7 @@ title: GuGg - 국끄
 	<p class="intro">대구촌놈, 문돌이, 꼴에 스타트업 </p>
   <h2>하는 것</h2>
   <ul>
-    <li>main : <a href="http://gutlet.com">Guntlet(건틀렛)</a> Product Lead / Fouder</li>
+    <li>main : <a href="http://gutlet.com">Guntlet(건틀렛)</a> - Product Lead / Fouder</li>
     <li>side : <a href="http://updateam.com">Updateam(업데이팀)</a> - Developer / Fouder</li>
   </ul>
 	<h2>좋음 </h2>
