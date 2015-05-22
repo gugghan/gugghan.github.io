@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuGg - 국끄
+title: GuGg blog
 ---
 
 <div id="articles">
